@@ -7,7 +7,7 @@ const whatsappNumber = "919477110367"
 
 const CTA = () => {
   const bookFreeSession = () => {
-    const message = `Hello Forge Fitness,
+    const message = `Hello ABSOLUTE GYM,
 
 I would like to book a free gym session.
 
@@ -33,7 +33,7 @@ Thank you.`
         {/* Background */}
         <motion.img
           src={gym1}
-          alt="Forge Fitness Gym"
+          alt="ABSOLUTE GYM Gym"
           initial={{ scale: 1.1 }}
           whileInView={{ scale: 1 }}
           viewport={{ once: true }}

@@ -32,7 +32,7 @@ const trainers = [
 const whatsappNumber = "919477110367"
 
 const contactTrainer = (trainer) => {
-  const message = `Hello Forge Fitness,
+  const message = `Hello ABSOLUTE GYM,
 
 I am interested in training with ${trainer.name}.
 
@@ -197,7 +197,7 @@ const Trainers = () => {
           <button
             type="button"
             onClick={() => contactTrainer({
-              name: "one of the Forge Fitness trainers",
+              name: "one of the ABSOLUTE GYM trainers",
               role: "personal training",
             })}
             className="group flex items-center gap-3 text-xs font-bold uppercase tracking-[0.2em] text-white transition-colors hover:text-[#C6FF00]"

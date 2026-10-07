@@ -82,7 +82,7 @@ const About = () => {
           >
             <img
               src={gym2}
-              alt="Forge gym"
+              alt="ABSOLUTE gym"
               className="absolute inset-0 h-full w-full object-cover grayscale transition-all duration-700 group-hover:scale-105 group-hover:grayscale-0"
             />
 

@@ -42,7 +42,7 @@ const Navbar = () => {
 
             <div className="leading-none">
               <p className="text-lg font-black tracking-tight text-white">
-                FORGE<span className="text-[#C6FF00]">.</span>
+                ABSOLUTE GYM<span className="text-[#C6FF00]">.</span>
               </p>
 
               <p className="mt-1 text-[8px] font-medium uppercase tracking-[0.35em] text-white/40">

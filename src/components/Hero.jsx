@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="absolute inset-0">
         <motion.img
           src={gym1}
-          alt="Forge Fitness Gym"
+          alt="ABSOLUTE GYM Gym"
           initial={{ scale: 1.08 }}
           animate={{ scale: 1 }}
           transition={{ duration: 1.5, ease: "easeOut" }}

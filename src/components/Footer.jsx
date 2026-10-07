@@ -108,7 +108,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="mailto:hello@forgefitness.com"
+                href="mailto:hello@absolutegym.com"
                 className="transition-colors hover:text-white"
               >
                 hello@absolutefitness.com

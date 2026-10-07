@@ -47,7 +47,7 @@ const Results = () => {
 
           <motion.img
             src={gym4}
-            alt="Training at Forge"
+            alt="Training at ABSOLUTE GYM"
             initial={{ scale: 1.12 }}
             whileInView={{ scale: 1 }}
             viewport={{ once: true }}

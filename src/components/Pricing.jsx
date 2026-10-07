@@ -75,7 +75,7 @@ const Pricing = () => {
       return
     }
 
-    const message = `Hello Forge Fitness,
+    const message = `Hello ABSOLUTE GYM,
 
 I am interested in joining your gym.
 

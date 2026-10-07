@@ -111,7 +111,7 @@ const Contact = () => {
                   </p>
 
                   <a
-                    href="mailto:hello@forgefitness.com"
+                    href="mailto:hello@absolutefitness.com"
                     className="mt-1 block font-semibold transition-colors hover:text-[#C6FF00]"
                   >
                     hello@absolutegym.com
@@ -164,7 +164,7 @@ const Contact = () => {
             className="relative min-h-[450px] overflow-hidden border border-white/10 lg:col-span-7"
           >
             <iframe
-              title="Forge Fitness Kolkata Location"
+              title="ABSOLUTE GYM Kolkata Location"
               src="https://www.google.com/maps?q=Kolkata%2C%20West%20Bengal%2C%20India&output=embed"
               className="absolute inset-0 h-full w-full grayscale invert-[0.9] contrast-[1.1]"
               loading="lazy"
