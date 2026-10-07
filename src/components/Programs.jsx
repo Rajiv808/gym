@@ -32,7 +32,7 @@ const programs = [
 ]
 
 const openWhatsApp = (program = "a training program") => {
-  const message = `Hello Forge Fitness,
+  const message = `Hello ABSOLUTE GYM,
 
 I am interested in your ${program} program.
 
