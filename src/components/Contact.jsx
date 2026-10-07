@@ -114,7 +114,7 @@ const Contact = () => {
                     href="mailto:hello@forgefitness.com"
                     className="mt-1 block font-semibold transition-colors hover:text-[#C6FF00]"
                   >
-                    hello@forgefitness.com
+                    hello@absolutegym.com
                   </a>
                 </div>
               </div>

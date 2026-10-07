@@ -5,12 +5,12 @@ const testimonials = [
   {
     name: "Rahul Sharma",
     role: "Member · 2 Years",
-    text: "Forge completely changed the way I train. The trainers actually care about your progress, and the atmosphere keeps me motivated every single day.",
+    text: "ABSOLUTE GYM completely changed the way I train. The trainers actually care about your progress, and the atmosphere keeps me motivated every single day.",
   },
   {
     name: "Priya Mehta",
     role: "Member · 1 Year",
-    text: "The best thing about Forge is the community. I started with zero confidence and now training has become one of the strongest parts of my routine.",
+    text: "The best thing about ABSOLUTE GYM is the community. I started with zero confidence and now training has become one of the strongest parts of my routine.",
   },
   {
     name: "Arjun Kapoor",
