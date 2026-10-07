@@ -23,3 +23,22 @@ body {
   background: #c6ff00;
   color: #050505;
 }
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  -webkit-touch-callout: none;
+}
+
+input,
+select,
+textarea {
+  font-size: 16px;
+}
